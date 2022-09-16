@@ -1,0 +1,4 @@
+pyjokes==0.6.0
+python-dotenv==0.21.0
+slack-bolt==1.14.3
+slack-sdk==3.18.3
